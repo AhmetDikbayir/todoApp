@@ -13,7 +13,7 @@ For database:
 For connection frontend:
   - cors
 
-# For frontedn React.JS was used
+# For frontend React.JS was used
 
 For HTTP Request:
   - Axios
